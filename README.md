@@ -15,8 +15,6 @@ The project was completed as part of my **Machine Learning course assignment** a
 - [Methodology](#methodology)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Files Included](#files-included)
 
 ---
 
@@ -84,10 +82,5 @@ This task demonstrates the power of deep learning in computer vision and serves 
 
 ---
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-      git clone https://github.com/<mehmet-akif>/mnist-keras-classifier.git
 
    
