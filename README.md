@@ -17,6 +17,4 @@ It was developed as part of a **Machine Learning assignment** to gain hands-on e
 - Evaluates model accuracy on the test set.
 - Visualizes the first 10 test predictions.
 
----
 
-## 📂 Project Structure
