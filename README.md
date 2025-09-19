@@ -90,6 +90,4 @@ This task demonstrates the power of deep learning in computer vision and serves 
    ```bash
       git clone https://github.com/<mehmet-akif>/mnist-keras-classifier.git
 
-   git clone https://github.com/<mehmet-akif>/mnist-keras-classifier.git
-   cd mnist-keras-classifier
    
